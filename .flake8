@@ -1,0 +1,4 @@
+[flake8]
+statistics = True
+exclude =
+    __pycache__,
